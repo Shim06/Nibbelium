@@ -1,9 +1,9 @@
-# Nibellium
+# Nibbelium
 A CHIP-8 Emulator written in C++ with Dear ImGui and SDL2 for Windows.
 
 https://github.com/Shim06/Nibbelium/assets/50046854/15347727-592b-4a27-baa3-056b1f6e18d5
 
-Nibellium is an Emulator for the old CHIP-8 virtual machine, that was initially used on the COSMAC VIP. This emulator was written in C++ to optimize for emulator performance, while also using Dear ImGui and SDL2 for its GUI and graphics. Nibellium contains a simplistic GUI to make the emulator easy to use and convenient to use. Various games are also included with the emulator to allow users to try out different games. It has different settings to change certain behaviours of the emulator such as, the pixel colors, the amount of instructions run per second, and the different CHIP-8 quirks. This software aims to emulate the old CHIP-8 virtual machine as accurately as possible and to achieve a high game compatability rate.
+Nibbelium is an Emulator for the old CHIP-8 virtual machine, that was initially used on the COSMAC VIP. This emulator was written in C++ to optimize for emulator performance, while also using Dear ImGui and SDL2 for its GUI and graphics. Nibbelium contains a simplistic GUI to make the emulator easy to use and convenient to use. Various games are also included with the emulator to allow users to try out different games. It has different settings to change certain behaviours of the emulator such as, the pixel colors, the amount of instructions run per second, and the different CHIP-8 quirks. This software aims to emulate the old CHIP-8 virtual machine as accurately as possible and to achieve a high game compatability rate.
 
 ## Introduction
 CHIP-8 was most commonly implemented on 4K systems, such as the Cosmac VIP and the Telmac 1800. These machines had 4096 (0x1000) memory locations, all of which are 8 bits (a byte) which is where the term CHIP-8 originated.
